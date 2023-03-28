@@ -47,3 +47,11 @@ section{
 .section-task{
     margin-bottom: 15px;
 }
+span{
+    display: inline-block;
+    height: 1rem;
+    width: 1rem;
+    border: solid;
+    border-color: green;
+    border-radius: 50%;
+}
