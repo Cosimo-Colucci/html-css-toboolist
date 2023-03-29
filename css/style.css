@@ -72,3 +72,15 @@ section{
     padding: 2px 6px 3px 6px;
     border-radius: 25%;
 }
+
+.bello-pink{
+    background-color: pink;
+}
+
+.bello-yellow{
+    background-color: yellow;
+}
+
+.bello-orange{
+    background-color: orange;
+}
